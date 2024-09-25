@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+/* The code below ensures that all elements are sized in this more intuitive way. Many browsers already use box-sizing: border-box; for many form elements (but not all - which is why inputs and text areas look different at width: 100%;) */
+
+body {
+    background-color: blue;
+    color: white;
+}
